@@ -47,7 +47,7 @@ const Testimonial = () => {
             >
               <div className="h-fit w-full flex flex-col justify-center items-center gap-5">
                 <img
-                  src="src/assets/Icons/quoteIcon.svg"
+                  src="/src/assets/Icons/quoteIcon.svg"
                   alt="Quote-Icon"
                   className="h-auto w-auto"
                 />
