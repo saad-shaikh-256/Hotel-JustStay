@@ -1,17 +1,17 @@
 const Rooms = () => {
   const roomsArray = [
     {
-      roomImage: "../../src/assets/Images/Room-Img/Junior-Suite.png",
+      roomImage: "/assets/Images/Room-Img/Junior-Suite.png",
       roomName: "Junior Suite",
       roomPrice: "$150.00",
     },
     {
-      roomImage: "../../src/assets/Images/Room-Img/Executive-Suite.png",
+      roomImage: "/assets/Images/Room-Img/Executive-Suite.png",
       roomName: "Executive Suite",
       roomPrice: "$250.00",
     },
     {
-      roomImage: "../../src/assets/Images/Room-Img/Super-Deluxe.png",
+      roomImage: "/assets/Images/Room-Img/Super-Deluxe.png",
       roomName: "Super Deluxe",
       roomPrice: "$350.00",
     },
