@@ -1,0 +1,14 @@
+.our-Services:hover,
+.our-Services:focus {
+  cursor: pointer;
+  background-color: #ff8d41;
+  border: #ff8d41;
+  svg {
+    path {
+      fill: #fff;
+    }
+  }
+  div {
+    color: white;
+  }
+}
