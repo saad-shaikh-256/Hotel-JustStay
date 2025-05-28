@@ -46,11 +46,7 @@ const Testimonial = () => {
               className="h-fit w-full lg:max-w-[298px] px-6 py-4 flex flex-col gap-7 justify-center items-center"
             >
               <div className="h-fit w-full flex flex-col justify-center items-center gap-5">
-                <img
-                  src="../../src/assets/Icons/quoteIcon.svg"
-                  alt="Quote-Icon"
-                  className="h-auto w-auto"
-                />
+                <i className="hgi hgi-stroke hgi-quote-down font-bold text-primary text-3xl"></i>
                 <span className="h-fit w-full text-center text-base  text-neutral-800 flex justify-center">
                   {arr.testimonialMessage}
                 </span>
