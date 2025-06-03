@@ -1,17 +1,21 @@
+import juniorSuiteImg from "../src/assets/Images/Room-Img/Junior-Suite.png";
+import executiveSuiteImg from "../src/assets/Images/Room-Img/Executive-Suite.png";
+import superDeluxeImg from "../src/assets/Images/Room-Img/Super-Deluxe.png";
+
 const Rooms = () => {
   const roomsArray = [
     {
-      roomImage: "../src/assets/Images/Room-Img/Junior-Suite.png",
+      roomImage: juniorSuiteImg,
       roomName: "Junior Suite",
       roomPrice: "$150.00",
     },
     {
-      roomImage: "../src/assets/Images/Room-Img/Executive-Suite.png",
+      roomImage: executiveSuiteImg,
       roomName: "Executive Suite",
       roomPrice: "$250.00",
     },
     {
-      roomImage: "../src/assets/Images/Room-Img/Super-Deluxe.png",
+      roomImage: superDeluxeImg,
       roomName: "Super Deluxe",
       roomPrice: "$350.00",
     },
