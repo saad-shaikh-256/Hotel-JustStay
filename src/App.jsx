@@ -8,8 +8,8 @@ import Testimonial from "./Components/Testimonial";
 function App() {
   return (
     <>
-      <Rooms />
       <Stats />
+      <Rooms />
       <Services />
       <Testimonial />
       <Footer />
