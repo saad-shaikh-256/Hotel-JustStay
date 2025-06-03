@@ -1,6 +1,6 @@
-import juniorSuiteImg from "../src/assets/Images/Room-Img/Junior-Suite.png";
-import executiveSuiteImg from "../src/assets/Images/Room-Img/Executive-Suite.png";
-import superDeluxeImg from "../src/assets/Images/Room-Img/Super-Deluxe.png";
+import juniorSuiteImg from "../assets/Images/Room-Img/Junior-Suite.png";
+import executiveSuiteImg from "../assets/Images/Room-Img/Executive-Suite.png";
+import superDeluxeImg from "../assets/Images/Room-Img/Super-Deluxe.png";
 
 const Rooms = () => {
   const roomsArray = [
